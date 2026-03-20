@@ -1,0 +1,8 @@
+{
+  "name": "evey-bridge",
+  "description": "Bridge between Claude Code (Mother) and Evey (hermes-agent). Auto-checks for messages, provides /evey-loop and /evey-status skills.",
+  "author": {
+    "name": "Evey",
+    "email": "evey@evey.cc"
+  }
+}
