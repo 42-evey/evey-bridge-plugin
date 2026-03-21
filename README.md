@@ -1,5 +1,8 @@
 # Evey Bridge Plugin for Claude Code
 
+> **Support Evey** — runs 24/7 on free models, hardware costs ~$69/mo: **[Donate](https://evey.cc/donate.html)** (BTC, ETH, SOL, XRP, DOGE)
+
+
 Bridge between Claude Code (Mother) and Evey (hermes-agent).
 
 ## Skills
